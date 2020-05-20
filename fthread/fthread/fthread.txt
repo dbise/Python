@@ -1,0 +1,3 @@
+Number of bytes: 3110197
+Execution time: 7.114275932312012
+CPU time: 7.71875
